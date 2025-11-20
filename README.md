@@ -2,7 +2,7 @@
 
 **Web Quiz App** is a simple and interactive quiz application that runs in the browser. It is built using HTML, CSS, and JavaScript.  
 
-## 🚀 Features
+## Features
 
 - Start the quiz with a start button  
 - Multiple choice questions  
@@ -11,14 +11,14 @@
 - Display total score at the end of the quiz  
 - Options to retake or finish the quiz  
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - HTML5  
 - CSS3  
 - JavaScript (Vanilla JS)  
 - Font Awesome icons  
 
-## 📂 File Structure
+## File Structure
 
 web-quiz-app/
 │ index.html # Main HTML file of the application
@@ -29,7 +29,7 @@ web-quiz-app/
 │ README.md # Project documentation and usage guide
 
 
-## ⚡ Installation and Usage
+## Installation and Usage
 
 1. Clone or download the project from GitHub.  
 2. Navigate to the project folder and open `index.html` in a browser.  
@@ -38,7 +38,7 @@ web-quiz-app/
 5. View the total score and icons at the end of the quiz.  
 6. Use **Reply Test** to retake the quiz or **Finish Test** to close it.
 
-## ❓ Quiz Questions
+## Quiz Questions
 
 Quiz questions are defined in the `quiz.js` file. Example:
 
@@ -49,7 +49,7 @@ new Exam(
   "d"
 )
 
-🤝 Contributing
+Contributing
 
 1- Fork the repository.
 
